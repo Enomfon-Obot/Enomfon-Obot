@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enomfon-Obot
-- 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently in view of earning a Master's Degree in Data Science
+- 👀 I’m interested in working as a Data Scientist
+- 🌱 I have a Master's Degree in Data Science
 - 💞️ I’m looking to research and publish academic documents
 - 📫 You can reach me on eobot34@gmail.com
 
